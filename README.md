@@ -5,7 +5,7 @@ Are you working on an open source project that needs a password manager? How abo
 
 
 ## How to apply
-1. Create a 1Password Teams account on [1Password.com](https://1password.com). 
+1. Create a 1Password Teams account on [1Password.com](https://1password.com).
 2. Invite at least one other team member and add them as an owner of the account.
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
@@ -22,7 +22,7 @@ To apply, you need to be a project lead or a core contributor for an active open
 
 Your project needs to use a standard open source license and must be non-commercial. It should not have paid support and cannot pay contributors. If your company works on commercial projects, consider [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com. 
+If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
 
 
 ## Membership details
@@ -31,9 +31,9 @@ If you're not sure if your project meets these requirements, please contact our 
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.
 * Memberships can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days prior to renewal.
-* Memberships cannot be transferred or sold. 
+* Memberships cannot be transferred or sold.
 
-We will review all requests and accept them at our discretion. If accepted, your project may be listed below. 
+We will review all requests and accept them at our discretion. If accepted, your project may be listed below.
 
 -----
 
@@ -52,7 +52,7 @@ PKIjs is a pure JavaScript library implementing the formats that are used in PKI
 Open Source firmware for x86 and other architectures [Link to project](https://www.coreboot.org)
 
 ### Pluto Video Snapshoter
-Cross platform video snapshot software, stitching snapshots automatically with subtitle detection. 
+Cross platform video snapshot software, stitching snapshots automatically with subtitle detection.
 A short description of what we do. [Pluto Video Snapshoter](http://pluto.shootsoft.net)
 
 ### libgit2
@@ -106,11 +106,11 @@ The broadcast app is a way of connecting groups in chat rooms over SMS, no app r
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
-[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
-visualization library for Python that enables beautiful and meaningful visual 
-presentation of data in modern web browsers. Bokeh provides an elegant and concise 
-way to construct versatile graphics while delivering **high-performance** 
+Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) |
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
+visualization library for Python that enables beautiful and meaningful visual
+presentation of data in modern web browsers. Bokeh provides an elegant and concise
+way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Open Data Kit
@@ -124,10 +124,14 @@ Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation,
 
 Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption. [Link to project](https://github.com/phalcon/cphalcon)
 
-### Cloud Oscilloscope 
+### Cloud Oscilloscope
 
 A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display. [Link to project](https://hackaday.io/project/90259-cloud-oscilloscope)
 
 ### Telegram Bot PHP SDK
 
 The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
+
+### Resources for Android developers
+
+Team collaboration to gather and share resources for Android developers. [Link to project](https://github.com/dynamite8/resources-android-dev)
